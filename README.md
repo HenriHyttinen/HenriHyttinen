@@ -4,7 +4,7 @@ Software Developer graduating March 2026
 Kuopio, Finland
 
 I’m interested in full-stack development, backend systems, and practical applications of AI.  
-Most of my work focuses on building complete systems from APIs and data models to user interfaces — with an emphasis on real functionality rather than demos.
+Most of my work focuses on building complete systems from APIs and data models to user interfaces with an emphasis on real functionality rather than demos.
 
 My background in entrepreneurship has given me experience working independently, solving real-world problems, and communicating with different kinds of people and teams.
 
