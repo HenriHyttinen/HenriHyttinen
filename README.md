@@ -1,16 +1,30 @@
 # Henri Hyttinen
 
-Software Developer graduating March 2026  
+Software Developer | Full-Stack & Backend  
 Kuopio, Finland
 
-I’m interested in full-stack development, backend systems, and practical applications of AI.  
-Most of my work focuses on building complete systems from APIs and data models to user interfaces with an emphasis on real functionality rather than demos.
+I build practical software systems that combine backend services, data models, and modern web interfaces. My projects focus on solving real operational problems rather than building simple demos.
 
-My background in entrepreneurship has given me experience working independently, solving real-world problems, and communicating with different kinds of people and teams.
+My background in entrepreneurship and operational environments has shaped my interest in systems that support real workflows, automation, and data-driven decision making.
+
+I’m particularly interested in:
+- backend systems
+- SaaS applications
+- operational tools and workflow software
+- practical applications of AI
 
 ---
 
 ## Selected Projects
+
+### FieldOps — Observation & Incident Reporting System
+SaaS-style operational reporting application where users can report observations, create tasks from those observations, and track resolution workflows.
+
+Includes role-based access, dashboard metrics, activity history, attachments, and a React frontend integrated with a FastAPI backend.
+
+https://github.com/HenriHyttinen/Field
+
+---
 
 ### i-love-shopping
 Full-stack e-commerce platform built with Django and PostgreSQL.
@@ -19,52 +33,45 @@ Includes authentication, order management, admin tooling, security hardening, an
 
 https://github.com/HenriHyttinen/i-love-shopping
 
+---
 
 ### Numbers Don't Lie
 Health and nutrition platform combining analytics, meal planning, and an AI assistant.
 
-Built using FastAPI and React. The system integrates nutritional analysis, vector search, and conversational interaction with user data.
+Built with FastAPI and React. The system integrates nutritional analysis, vector search, and conversational interaction with user data.
 
 https://github.com/HenriHyttinen/Ai-assistant
-
-
-### Cars Viewer
-Web application for browsing and comparing vehicle models using an external API.
-
-Backend implemented in Go with filtering, comparison features, and persistent user preferences.
-
-https://github.com/HenriHyttinen/cars
 
 ---
 
 ## Technologies
 
-JavaScript • Python • Go • SQL • C/C++  
-React • Node.js • FastAPI • Django  
-REST APIs • Docker • Git  
+**Languages**
+
+JavaScript • Python • Go • SQL • C/C++
+
+**Backend & Frameworks**
+
+FastAPI • Django • Node.js • REST APIs
+
+**Frontend**
+
+React
+
+**Data & Infrastructure**
+
+PostgreSQL • Docker • Git
+
+**AI**
+
 AI integration • Vector embeddings
 
 ---
 
 ## Contact
 
-LinkedIn:  
+LinkedIn  
 https://www.linkedin.com/in/henri-hyttinen-1859503b3/
 
-Email:  
+Email  
 henri_hyttinen@hotmail.com
-
-<!--
-**HenriHyttinen/HenriHyttinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
