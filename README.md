@@ -22,7 +22,7 @@ SaaS-style operational reporting application where users can report observations
 
 Includes role-based access, dashboard metrics, activity history, attachments, and a React frontend integrated with a FastAPI backend.
 
-https://github.com/HenriHyttinen/fieldops
+https://github.com/HenriHyttinen/fieldops-app
 
 ---
 
