@@ -17,7 +17,7 @@ I’m particularly interested in:
 
 ## Selected Projects
 
-### FieldOps — Observation & Incident Reporting System
+### FieldOps Observation & Incident Reporting System
 SaaS-style operational reporting application where users can report observations, create tasks from those observations, and track resolution workflows.
 
 Includes role-based access, dashboard metrics, activity history, attachments, and a React frontend integrated with a FastAPI backend.
